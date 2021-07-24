@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Linear Data Structures.iml" filepath="$PROJECT_DIR$/Linear Data Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Linear Data Structures.iml" filepath="$PROJECT_DIR$/.idea/Linear Data Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example Linear/example Linear.iml" filepath="$PROJECT_DIR$/example Linear/example Linear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example dynamic list create/example dynamic list create.iml" filepath="$PROJECT_DIR$/example dynamic list create/example dynamic list create.iml" />
     </modules>
   </component>
 </project>
