@@ -1,7 +1,11 @@
 public class Main {
 
     public static void main(String[] args) {
-
+        System.out.println(Math.pow(2,10));
+        System.out.println();
+        int a = 5;
+        a += 1;
+        System.out.println(a);
     }
 
     // this algorithm is (n^2) in worst case.
